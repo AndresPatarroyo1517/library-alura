@@ -7,11 +7,7 @@ Este proyecto forma parte de un challenge de Alura Latam, en el cual el objetivo
 
     Interpretar y mostrar los datos recibidos (libros, autores, idiomas, etc.).
 
-    Practicar el uso de fetch (o axios), manejo de promesas y asincronismo.
-
-    Implementar una interfaz amigable para visualizar los libros.
-
-    Aplicar buenas prácticas de desarrollo web (HTML, CSS, JS).
+    Usar una base de datos para almacenar las busquedas
 
 🔍 ¿Qué es Gutendex?
 
@@ -34,4 +30,3 @@ Gutendex es una API pública gratuita que proporciona acceso a miles de libros c
 
     Buenas prácticas de manejo de errores.
 
-    Renderizar contenido dinámico en el DOM.
